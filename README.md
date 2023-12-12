@@ -57,8 +57,9 @@
 
 ---
 
-##Wakatime Insights
-<figure><embed src="https://wakatime.com/share/@AllanJuma/395567fb-7222-4e6d-baeb-4a4363ee25b1.svg"></embed></figure>
+## Wakatime Insights
+
+![Wakatime Stats](https://wakatime.com/badge/user/395567fb-7222-4e6d-baeb-4a4363ee25b1.svg)
 
 ## GitHub Insights 📊
 
