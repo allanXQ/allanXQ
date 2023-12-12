@@ -65,4 +65,6 @@
     <img align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=allanXQ&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true&hide_title=true">
 </div>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@AllanJuma/9f6618f7-a946-42f6-bc93-11b0265108df.png" /></a>
+
 ---
