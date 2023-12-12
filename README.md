@@ -57,6 +57,8 @@
 
 ---
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@AllanJuma/9f6618f7-a946-42f6-bc93-11b0265108df.png" /></a>
+
 ## GitHub Insights 📊
 
 <div align="center">
