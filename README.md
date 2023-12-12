@@ -59,7 +59,9 @@
 
 ## Wakatime Insights
 
-![Wakatime Stats](https://wakatime.com/badge/user/395567fb-7222-4e6d-baeb-4a4363ee25b1.svg)
+<div align="center">
+    <img width="100%" src="https://wakatime.com/badge/user/395567fb-7222-4e6d-baeb-4a4363ee25b1.svg">
+</div>
 
 ## GitHub Insights 📊
 
