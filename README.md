@@ -57,6 +57,9 @@
 
 ---
 
+##Wakatime Insights
+<figure><embed src="https://wakatime.com/share/@AllanJuma/395567fb-7222-4e6d-baeb-4a4363ee25b1.svg"></embed></figure>
+
 ## GitHub Insights 📊
 
 <div align="center">
