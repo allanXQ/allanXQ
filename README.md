@@ -56,9 +56,6 @@
 ... _[and more]_
 
 ---
-<div align="center">
-<a href="https://wakatime.com"><img height="500px" src="https://wakatime.com/share/@AllanJuma/9f6618f7-a946-42f6-bc93-11b0265108df.png" /></a>
-</div>
 
 ## GitHub Insights 📊
 
